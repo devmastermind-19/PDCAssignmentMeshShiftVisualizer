@@ -35,7 +35,6 @@ An interactive, interactive vanilla JavaScript application simulating **circular
 ├── index.html              # Main HTML Document
 ├── package.json            # Deployment & scripts configuration
 ├── README.md               # You're reading this!
-└── report.md               # Technical report & complexity analysis
 ```
 
 ## 🚀 Getting Started
