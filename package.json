@@ -1,0 +1,21 @@
+{
+  "name": "mesh-shift-visualizer",
+  "version": "1.0.0",
+  "description": "Visualizer for circular q-shift on a 2D mesh",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "serve .",
+    "dev": "serve . -l 3000"
+  },
+  "keywords": [
+    "matrix",
+    "hypercube",
+    "mesh",
+    "shift"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1"
+  }
+}
